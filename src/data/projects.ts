@@ -98,9 +98,9 @@ export const projectsData: ProjectsData = {
         { name: "PayPal", icon: "https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" }
       ],
       screenshots: [
+        { src: "/projects/walkingwitness/screen-3.png", caption: "Home screen — listed projects" },
         { src: "/projects/walkingwitness/screen-1.png", caption: "Onboarding" },
         { src: "/projects/walkingwitness/screen-2.png", caption: "Project category explorer" },
-        { src: "/projects/walkingwitness/screen-3.png", caption: "Home screen — listed projects" },
         { src: "/projects/walkingwitness/screen-4.png", caption: "Project details" },
       ],
       // github: "https://github.com/shougotmollik",
@@ -130,8 +130,8 @@ export const projectsData: ProjectsData = {
         { name: "Stripe", icon: "https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" },
       ],
       screenshots: [
-        { src: "/projects/homecache/Onboarding _  New User Sign Up _ Here's How to Get Started!.png", caption: "Onboarding — new user sign up" },
         { src: "/projects/homecache/Home Dash _ Home Overview.png", caption: "Home dashboard — overview" },
+        { src: "/projects/homecache/Onboarding _  New User Sign Up _ Here's How to Get Started!.png", caption: "Onboarding — new user sign up" },
         { src: "/projects/homecache/Home Dash _ Home Health Breakdown.png", caption: "Home health breakdown" },
         { src: "/projects/homecache/Home Dash _ View Details View.png", caption: "Home details view" },
         { src: "/projects/homecache/Document Library _ View All Documents.png", caption: "Document library" },
@@ -140,6 +140,8 @@ export const projectsData: ProjectsData = {
         { src: "/projects/homecache/Schedule _ Link or Create Task- View of a Task does not repeat.png", caption: "Schedule — link or create task" },
         { src: "/projects/homecache/Sharing Data _ User Management _ Remove User.png", caption: "Sharing — user management" },
       ],
+      playStore: "https://play.google.com/store/apps/details?id=com.hc.homecache",
+      appStore: "https://apps.apple.com/us/app/homecache-inc/id6786979664",
       color: "#FF9800",
     },
     {
@@ -164,8 +166,8 @@ export const projectsData: ProjectsData = {
         { name: "Django REST Framework", icon: `${deviconBase}/django/django-original.svg` },
       ],
       screenshots: [
-        { src: "/projects/famka/onboarding.png", caption: "Onboarding" },
         { src: "/projects/famka/home screen.png", caption: "Home screen — chapters & sessions" },
+        { src: "/projects/famka/onboarding.png", caption: "Onboarding" },
         { src: "/projects/famka/quiz level.png", caption: "Quiz level selection" },
         { src: "/projects/famka/audio session.png", caption: "Audio session — multi-speaker player" },
         { src: "/projects/famka/quiz screen.png", caption: "Quiz — instant feedback" },
@@ -196,9 +198,9 @@ export const projectsData: ProjectsData = {
         { name: "Stripe", icon: "https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" },
         { name: "Django REST Framework", icon: `${deviconBase}/django/django-original.svg` },
       ],
-screenshots: [
-        { src: "/projects/crewsh/screen-1.png", caption: "Onboarding" },
+      screenshots: [
         { src: "/projects/crewsh/screen-2.png", caption: "Home — discovering people" },
+        { src: "/projects/crewsh/screen-1.png", caption: "Onboarding" },
         { src: "/projects/crewsh/screen-3.png", caption: "Matched" },
         { src: "/projects/crewsh/screen-4.png", caption: "Cruise marketplace" },
         { src: "/projects/crewsh/screen-5.png", caption: "Messaging" },
@@ -229,10 +231,10 @@ screenshots: [
         { name: "PayPal", icon: "https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" },
       ],
       screenshots: [
+        { src: "/projects/covenanthearts/screen-4.png", caption: "Matched" },
         { src: "/projects/covenanthearts/screen-1.png", caption: "Onboarding" },
         { src: "/projects/covenanthearts/screen-2.png", caption: "Home screen — discovering" },
         { src: "/projects/covenanthearts/screen-3.png", caption: "Matched list" },
-        { src: "/projects/covenanthearts/screen-4.png", caption: "Matched" },
       ],
       // github: "https://github.com/shougotmollik",
       playStore: "https://play.google.com/store/apps/details?id=com.ch.covenanthearts&pcampaignid=web_share",
@@ -262,8 +264,8 @@ screenshots: [
         { name: "Google Maps", icon: "https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" },
       ],
       screenshots: [
-        { src: "/projects/vocamatch/Splash.png", caption: "Splash screen" },
         { src: "/projects/vocamatch/Home.png", caption: "Home" },
+        { src: "/projects/vocamatch/Splash.png", caption: "Splash screen" },
         { src: "/projects/vocamatch/Voice intro.png", caption: "Voice intro" },
         { src: "/projects/vocamatch/Match Request.png", caption: "Match request" },
         { src: "/projects/vocamatch/Match.jpg", caption: "Match" },
@@ -303,8 +305,8 @@ screenshots: [
         { name: "PayPal", icon: "https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" },
       ],
       screenshots: [
-        { src: "/projects/vybin/splash.png", caption: "Splash screen" },
         { src: "/projects/vybin/home.png", caption: "Home — vibes nearby" },
+        { src: "/projects/vybin/splash.png", caption: "Splash screen" },
         { src: "/projects/vybin/vibe.png", caption: "Vibe status" },
         { src: "/projects/vybin/notification.png", caption: "Notifications" },
         { src: "/projects/vybin/community and event choose.png", caption: "Community & event choose" },
@@ -398,11 +400,11 @@ screenshots: [
         { name: "Firebase Auth", icon: `${deviconBase}/firebase/firebase-plain.svg` },
       ],
       screenshots: [
+        { src: "/projects/familyside/explorer map.png", caption: "Explore map" },
         { src: "/projects/familyside/onboarding.png", caption: "Onboarding" },
         { src: "/projects/familyside/Home.png", caption: "Home discovery feed" },
         { src: "/projects/familyside/Search.png", caption: "Search" },
         { src: "/projects/familyside/exploere.png", caption: "Explore" },
-        { src: "/projects/familyside/explorer map.png", caption: "Explore map" },
         { src: "/projects/familyside/creation.png", caption: "Creation" },
         { src: "/projects/familyside/analytics.png", caption: "Analytics" },
       ],

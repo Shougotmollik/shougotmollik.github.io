@@ -32,11 +32,11 @@ export const heroData: HeroData = {
   subtitle:
     "I'm a mobile app developer with 10+ apps published on Google Play and the App Store. I build for iOS and Android with Flutter, using GetX and Riverpod for state management and Firebase or Django REST Framework/FastAPI backends.",
 
-  resumeUrl: "/shougot%20mollik.pdf",
+  resumeUrl: "/shougot%20mollik%20resume.pdf",
 
   ctaPrimary: {
     label: "Download Resume",
-    href: "/shougot%20mollik.pdf",
+    href: "/shougot%20mollik%20resume.pdf",
   },
 
   ctaSecondary: {
